@@ -49,19 +49,18 @@
      
 
         <p>Animal Coins are a set of 3005 non-fungible tokens with unique artwork that represent endangered species.</p>
-        <p>A
-          percetange of every sale is sent trustlessly and on-chain to the <a href="https://www.aidchain.co/charity/wwf">World Wildlife Found</a>. This is written into each token's contract, ensuring it's patronage in perpetuity.</p>
+        <p>10% of every sale is sent trustlessly on-chain to the <a href="https://www.aidchain.co/charity/wwf">World Wildlife Fund</a>. This is written into each token's contract, ensuring its patronage in perpetuity.</p>
         <h1>GOAL</h1>
      
 
-        <p>Animal Coin's goal is the continuation of each animal species for its own sake and the role the species plays in the greater ecosystem.
+        <p>Animal Coin's goal is the continuation of each species for its own sake and the role it plays in the greater ecosystem.
 
-          Animal Coins will stay rare as the species they represent will become more
+          Animal Coins will stay rare, but the species they represent will become more
           populous.
         </p>
-        <p> The animals are from the <a href="https://en.wikipedia.org/wiki/IUCN_Red_List_critically_endangered_species_(Animalia)">IUCN's Red List of Critically Endangered Animals. </a> </p>
+        <p> The 3005 species are from the <a href="https://en.wikipedia.org/wiki/IUCN_Red_List_critically_endangered_species_(Animalia)">IUCN's Red List of Critically Endangered Animals. </a> </p>
 
-        <p>First tokens minted soon, be notified on
+        <p>First tokens minted soon, be notified by following us 
           <a class="twitter-follow-button" href="https://twitter.com/CoinsAnimal" data-size="large">
             Twitter</a>.
         </p>
